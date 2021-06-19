@@ -2,7 +2,7 @@
 
 ## I am a beginner web programmer. But still I have a little experience!
 - 💪 I like to write code
-- 🎉 I love to play the piano
+- 🎹 I love to play the piano
 - 🥅 I am constantly learning new things
 
 ### Connect with me:
