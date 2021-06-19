@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dmitriy
+### Hi there 👋, my name's Dmitriy
 
 ## I am a beginner web programmer. But still I have a little experience!
 - 💪 I like to write code
