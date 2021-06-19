@@ -1,6 +1,6 @@
 ## Hello everybody!
 ### My name is Kozlov Dmitriy
-##I have a lot of interests
+I have a lot of interests
 <!--
 **ItProgrammist/ItProgrammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
