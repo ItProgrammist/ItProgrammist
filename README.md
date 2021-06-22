@@ -1,6 +1,6 @@
 ### Hi there 👋, my name's Dmitriy
 
-## I am a <!-- beginner --> *web programmer*. Please see my work :)
+## I am a <!-- beginner --> *web programmer*. Please see my works :)
 - 💪 I like to write code
 - 🎹 I love to play the piano
 - 🥅 And I am constantly learning new things
