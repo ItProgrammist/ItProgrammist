@@ -26,7 +26,7 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   ## 📈 GitHub Stats
+   📈 GitHub Stats
 <p align="center">
   <table>
   <tr>
