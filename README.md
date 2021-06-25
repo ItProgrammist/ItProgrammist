@@ -1,4 +1,4 @@
-### Hi there 👋, my name's Dmitriy
+### Hi there <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px">, my name's Dmitriy
 
 ## I am a <!-- beginner --> *web programmer*. Please see my works :)
 - 💪 I like to write code
