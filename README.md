@@ -1,3 +1,4 @@
+<a href="https://itprogrammist.github.io/">
 ### Hi there <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> My name's Dmitriy
 
 ## I am a <!-- beginner --> *web programmer*. Please see my works :)
@@ -37,7 +38,7 @@
 </p>
 </details>
 
-<a href="https://itprogrammist.github.io/">SITE</a>
+</a>
 
 [website]: https://itprogrammist.github.io/
 [vk]: https://vk.com/idproger5
