@@ -37,5 +37,7 @@
 </p>
 </details>
 
+<a href="https://itprogrammist.github.io/">SITE</a>
+
 [website]: https://itprogrammist.github.io/
 [vk]: https://vk.com/idproger5
