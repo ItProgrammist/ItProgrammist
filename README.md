@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> My name's Dmitriy
 
-## I am a <!-- beginner --> *Web Developer*. Please see my works :)
+## I am a learning <!-- beginner --> *Web Developer*. Please see my works :)
 - 💪 I like to write code
 - 🎹 I love to play the piano
 - 🥅 And I am constantly learning new things
