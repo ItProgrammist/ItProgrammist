@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> My name's Dmitriy
 
-## I am a <!-- beginner --> *web programmer*. Please see my works :)
+## I am a <!-- beginner --> *Web Developer*. Please see my works :)
 - 💪 I like to write code
 - 🎹 I love to play the piano
 - 🥅 And I am constantly learning new things
@@ -19,6 +19,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/raspberrypi_logo_icon_168029.png" />
 
 
 <br />
