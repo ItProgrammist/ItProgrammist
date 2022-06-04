@@ -1,4 +1,4 @@
-### Hi there <img src="https://www.emojiall.com/images/60/blobmoji/emoji_u1f44b.png" width="25px"> My name's Dmitriy
+### Hi there <img src="https://github.com/ItProgrammist/MyImages/blob/master/templates/wave.gif?raw=true" width="25px"> My name's Dmitriy
 
 ## I am a learning <!-- beginner --> *Web Developer*. Please see my works :)
 - 💪 I like to write code
