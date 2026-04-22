@@ -1,4 +1,4 @@
-### Hi there <img src="https://www.emojiall.com/images/60/blobmoji/emoji_u1f44b.png" width="25px">  My name's Dmitriy
+### Hi there <img src="https://www.emojiall.com/images/60/blobmoji/emoji_u1f44b.png" width="25px">  My name's Dmitry
 
 ## I am an <!-- beginner --> *ML Engineer*. Please take a look at my projects :)
 - 💪 I like to tune models
